@@ -39,6 +39,9 @@ h6, button{
 	font-family: Calibri, sans-serif;
 }
 
+.cardpromo img{
+	width: 100%;
+}
 #azul{
 	display: inline-block;
 }
