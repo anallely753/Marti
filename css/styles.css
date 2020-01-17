@@ -3,7 +3,7 @@ body {
     min-height: 100vh;
     flex-direction: column;
     /*overflow: hidden;*/
-    font-size: 1em;
+    font-size: 100%;
   }
 
  main {
